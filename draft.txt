@@ -1,0 +1,58 @@
+This is going to be a quick draft of my program
+
+So, what is the idea?
+Universal micro-credential verification app
+
+So, we live in an era where credentials are pretty huge
+Bachelors, Masters
+Smaller ones are like full fledged professional licenses
+
+But from the basics of blockchain, the specifics of a coding language, anything, micro
+no need to make a full-fledged course
+these can be decided by the individual
+then these licenses can be built into bigger ones if one desires
+AI powers personalized learning journeys
+I was thinking how can this be "zettlekasten"ized but I'm not sure
+
+
+Okay so the user logs into the platform, and is greeted with a home page which shows a place where they can pick right where they left off,
+a popular things section, a new micro credentials section, a trending micro credentials section, and also for journeys the same treatment
+
+There's 3 views: sysadmin, user, and creator
+creator view: make tutorial, view and edit tutorial (enrollments, listing) and materials, they can also do user actions of learning for themselves
+Maybe this idea is a little complex for my current need
+
+you know what, I'll try continuing with this idea
+
+There's a few elements here
+1 - credential
+5-30 minute tutorial on whateva
+2 - Tutor
+The person offering the tutorial
+3 - Tutee
+The person learning this stuff, for simplicity they can't be the tutor for now
+
+But what if... to keep it open
+We just had *The User*
+Capable of being both a tutor AND a tutee, usually a tutee, but they can be both
+Duolingo got the bite sized thing going on
+Upwork got the peer to peer thing going on which I'm not sure about?
+
+Anyways, Tutor Tutee Credential Platform sysadmin
+alright, this is doable
+
+Absolute MVP:
+Tutor side:
+A user can log in (), make a tutorial with its relevant material (title, description, multimedia/learning materials)
+They can then see this course, edit its details, see its live statistics
+They can perform actions on their tutorial (delete, archive, copy)
+
+Tutee side:
+A user can log in, see their homepage with relevant tutorials
+They can enter a tutorial, see the materials
+Mark it as complete, get the credential
+See their credentials, export their credential/s 
+
+Systemwide:
+Users can make an account stored in the database which keeps track of all their data as tutors and tutees
+
